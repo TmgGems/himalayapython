@@ -1,0 +1,2 @@
+class Book:
+    de read()
