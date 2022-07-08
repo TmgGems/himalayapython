@@ -7,4 +7,4 @@ elif x%5==0:
 elif x%7==0:
         print("Divisible by 7")
 else:
-    print("Divisible by other number: ")
+        print("Error free")
